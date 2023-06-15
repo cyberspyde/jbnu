@@ -1,0 +1,8 @@
+제목A New Internet Disk Service                    Admin  | 2006-08-02 | 조회 4081본문 내용						A New Internet Disk Service
+
+The Chonbuk National University web disk changed into an internet disk of Eastsoft Corp. Information and Computer Center started the work in February and completed data movement until March 13th to operate the system from March 14th. The internet disk service is displaying more improved functions than the existing web disk. 
+First, it operates like a local disk on window explorer, and its own explorer is supported through ActiveX. Secondly, you can share data by opening a club and even can share data with user without account by adding guest folder. Thirdly, it has a function of virtual CD drive to easily set up a virtual drive on window. In addition, it includes many functions: a function to backup and restore file and folder; a bulk security link mail service; and a built-in media player to play while downloading movie files.
+Yu Yun-yeong in charge of web disk part in Information and Computer Center said, "I hope that students will make full use of all renewed functions. Especially it will be a great help to make a study group by opening a club. She also asked to refer to the manual for detailed information on use." Kim Yun-kyeong, a junior of Library and Information Science Department, said, "I have not used the existing web disk except to save a huge amount of files. However, I expect to make good use of the new internet disk service with more useful functions from now on."
+For more information call 270-3511 or visit http://webdisk.chonbuk.ac.kr.
+
+ 0

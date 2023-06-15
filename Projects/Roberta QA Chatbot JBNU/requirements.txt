@@ -1,0 +1,4 @@
+farm-haystack
+PyMuPDF
+transformers
+elasticsearch

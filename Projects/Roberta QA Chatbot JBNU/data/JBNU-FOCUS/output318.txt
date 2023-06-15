@@ -1,0 +1,42 @@
+제목[JBNU Star Fellow] Professor Kil To Chong (Electronics Engineering Department)                    홍보실  | 2022-08-24 | 조회 33937본문 내용▶Interview​Professor Kil To Chong is a researcher who
+develops source technology for brain diseases using artificial intelligence,
+which is emerging as a core of the 4th industrial revolution. He is accomplishing
+various academic achievements through research that combines the specialized
+field of artificial intelligence with brain science to improve the quality of
+human life. In particular, he is trying to identify the genes and biological
+mechanisms that cause Alzheimer's, which have not yet been accurately
+identified, and to develop new drugs based on the research results. Currently,
+he is conducting research on cancer-causing genes using artificial
+intelligence. Through such research on the development of
+brain science source technology, Professor Chong has derived the results of much
+of the necessary artificial intelligence technologies. He plans to use these
+research results to discover Alzheimer's-related genes that have not yet been
+identified and to reveal the mechanisms of the disease to develop new drugs to
+treat it. Professor Chong’s research can greatly help
+prevent personalized diseases by utilizing human genome data, a human genetic
+map, and can improve human quality of life in various fields such as by
+providing customized diets and health care. If artificial intelligence is applied to developing
+new drugs in South Korea, which is a latecomer in this field, the cost and time
+required for developing new drugs can be drastically reduced. As a researcher,
+Professor Chong dreams of a day when South Korea will lead the world in
+developing new drugs.  ▶EducationMay 1993 
+/  Texas A&M Univ. Doctor of Mechanical
+Engineering.Dec. 1986 
+/  Georgia Institute of Technology,
+Master of Mechanical Engineering.June 1984 
+/  Oregon State Univ. Bachelor of Mechanical
+Engineering.   ▶Researches​Unified
+dissipativity state estimation for delayed generalized impulsive neural
+networks with leakage delay effects / Knowledge-Based
+Systems, Vol 254​https://www.sciencedirect.com/science/article/pii/S0950705122008206 ​Active
+vibration on offshore steel jacket platforms including delayed probabilistic
+actuator failures and resilient reliable sampled-data control / IET
+Control Theory & Applications, Vol 16​https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12320 ​Rational
+design of ultrathin 2D tin nickel selenide nanosheets for high-performance
+flexible supercapacitors / Journal
+of Materials Chemistry A, Vol 42​https://pubs.rsc.org/en/content/articlelanding/2019/ta/c9ta08677c​ ​Nitrogen-Doped
+Graphene-Encapsulated Nickel Cobalt Nitride as a Highly Sensitive and Selective
+Electrode for Glucose and Hydrogen Peroxide Sensing Applications / ACS
+Applied Materials & Interfaces, Vol 10​https://pubs.acs.org/doi/10.1021/acsami.8b15069​...  ▶Books​<Automatic Control Systems, 8th
+edition>, Haksul Intelligence, 2018<Basic Artificial Intelligence>, JBNU
+press, 2018<Basic Automatic Control>, JBNU press, 2017<Introduction to Arduino>, JBNU press, 2016...​ 0
