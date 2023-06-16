@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'Haas Grot Text Web';
+  src: url('/ch-assets/fonts/NeueHaasGrotText-76BoldItalic-Web.woff2?v=1.0.0') format('woff2'), url('/ch-assets/fonts/NeueHaasGrotText-76BoldItalic-Web.woff/') format('woff'), url('/ch-assets/fonts/NeueHaasGrotText-76BoldItalic-Web.ttf/') format('truetype');
+  font-weight:  700;
+  font-style:   italic;
+  font-stretch: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: 'Haas Grot Text Web';
+  src: url('/ch-assets/fonts/NeueHaasGrotText-75Bold-Web.woff2?v=1.0.0') format('woff2'), url('/ch-assets/fonts/NeueHaasGrotText-75Bold-Web.woff/') format('woff'), url('/ch-assets/fonts/NeueHaasGrotText-75Bold-Web.ttf/') format('truetype');
+  font-weight:  700;
+  font-style:   normal;
+  font-stretch: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Haas Grot Text Web';
+  src: url('/ch-assets/fonts/NeueHaasGrotText-66MediumItalic-Web.woff2?v=1.0.0') format('woff2'), url('/ch-assets/fonts/NeueHaasGrotText-66MediumItalic-Web.woff/') format('woff'), url('/ch-assets/fonts/NeueHaasGrotText-66MediumItalic-Web.ttf/') format('truetype');
+  font-weight:  500;
+  font-style:   italic;
+  font-stretch: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: 'Haas Grot Text Web';
+  src: url('/ch-assets/fonts/NeueHaasGrotText-65Medium-Web.woff2?v=1.0.0') format('woff2'), url('/ch-assets/fonts/NeueHaasGrotText-65Medium-Web.woff/') format('woff'), url('/ch-assets/fonts/NeueHaasGrotText-65Medium-Web.ttf/') format('truetype');
+  font-weight:  500;
+  font-style:   normal;
+  font-stretch: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Haas Grot Text Web';
+  src: url('/ch-assets/fonts/NeueHaasGrotText-56Italic-Web.woff2?v=1.0.0') format('woff2'), url('/ch-assets/fonts/NeueHaasGrotText-56Italic-Web.woff/') format('woff'), url('/ch-assets/fonts/NeueHaasGrotText-56Italic-Web.ttf/') format('truetype');
+  font-weight:  400;
+  font-style:   italic;
+  font-stretch: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: 'Haas Grot Text Web';
+  src: url('/ch-assets/fonts/NeueHaasGrotText-55Roman-Web.woff2?v=1.0.0') format('woff2'), url('/ch-assets/fonts/NeueHaasGrotText-55Roman-Web.woff/') format('woff'), url('/ch-assets/fonts/NeueHaasGrotText-55Roman-Web.ttf/') format('truetype');
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+  font-display: fallback;
+}

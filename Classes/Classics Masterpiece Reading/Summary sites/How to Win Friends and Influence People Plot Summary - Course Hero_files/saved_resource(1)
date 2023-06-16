@@ -1,0 +1,3 @@
+window.Adform.Tracking.TrackingPointId = 59729266;
+window.Adform.Tracking.TrackingPointName = "CourseHero|StudyGuides";
+Adform.Tracking.CreateIframeElement("https://track.adform.net/serving/container/?pm=364845&lid=59729266&ctype=0&media=0&PageName=CourseHero%7cStudyGuides&rnd=1690280265&cpref=https%3a%2f%2fwww.google.com%2f&loc=https%3a%2f%2fwww.coursehero.com%2flit%2fHow-to-Win-Friends-and-Influence-People%2fplot-summary%2f");

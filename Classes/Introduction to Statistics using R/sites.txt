@@ -1,0 +1,6 @@
+moderndive.com - the book ( Statistical Inference via Data Science )
+openintro.org - for additional reference
+
+https://education.rstudio.com/
+https://www.statmethods.net/
+https://gapminder.org/world

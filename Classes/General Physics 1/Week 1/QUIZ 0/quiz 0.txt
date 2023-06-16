@@ -1,0 +1,17 @@
+QUIZ 0
+
+ 
+My name is Ilkhomjon Kobilov, I’m from Uzbekistan. I have been studying here at JBNU since 2019 Fall. I am interested in Science subjects, especially math, computer programming and of course physics. Well, to be honest, physics is not actually what I want to master, but it’s really interesting and it would be good if I take my physics to the next level through your courses. I will do my best to get good grades.
+In high school,, I don’t know how to name them, because it was just called “Fundamentals of Mathematics and Algebra Analysis” in Uzbekistan. So the concepts included nearly everything about intermediate trigonometry, calculus and approximation.
+I think S=at^2/2 is a formula to find how long a car goes with a constant acceleration.
+ 
+50 MPG - > km/l
+1 mile = 1.609km  1 gallon = 3.785l
+
+MPG = mile / gallon 
+
+50 * 1.609/3.785 km/l = 21.25 km/l
+
+
+If the total length is 30km of circular facility, then radius would be 15km. S=PI * R^2. So, the area would be S= PI * 225 = 706.5 km -> 706.5 * 10^3 m
+ 

@@ -1,0 +1,1 @@
+_gfp_s_({"_cookies_":[{"_value_":"ID=36aa1526a3a49c47:T=1588324673:S=ALNI_MbpNvTs5b0VGbLbTlSETbwjitzlaA","_expires_":1651396673,"_path_":"/","_domain_":"coursehero.com"}]});

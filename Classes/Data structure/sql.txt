@@ -1,0 +1,1 @@
+SELECT id, name FROM Students WHERE id LIKE '%50' AND LOWER(name) = '_lkhom%'

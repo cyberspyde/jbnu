@@ -1,0 +1,11 @@
+question1 : specimen (a) is a rigid as a board and (b) is a very flexible elastomer, but they are both thermosets. What makes the difference in their mechanical behaviour? chegg
+
+question2 : Upon drawing/pulling, specimens (b) and (c) will both exhibit high levels of elongation. However, when the deforming force is removed, specimen (b) will instantly retract to its original shape and form, but specimen (c) will remain permanently deformed. Why?
+
+Thermosets are plastics that retain their condition and shape after curing due to spatial crosslinking. Once cured, their polymers can no longer be dissolved.
+...
+
+https://matmatch.com/learn/material/thermoplastics-vs-thermosetting-polymers
+
+
+https://www.chegg.com/homework-help/questions-and-answers/demonstration-specimens-shown-piece-cured-epoxy-resin-b-rubber-band-c-strip-linear-low-den-q71799120
