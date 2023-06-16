@@ -1,0 +1,14 @@
+5 A ekan
+1B
+2C
+3C
+4B
+
+
+[Forwarded from Temur02]
+1) True 
+2) False
+3) True
+
+[Forwarded from Odiljon Yusupov]
+8)segregated into two daughter cells

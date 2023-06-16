@@ -1,0 +1,46 @@
+Cloud, [25.10.21 17:43]
+[Forwarded from علي أكبر]
+1а
+
+Cloud, [25.10.21 17:43]
+[Forwarded from علي أكبر]
+1е
+
+Cloud, [25.10.21 17:43]
+[Forwarded from علي أكبر]
+1б
+
+Cloud, [25.10.21 17:43]
+[Forwarded from linephone]
+7ni qatdaligini topdim javobini topiw kere
+
+Cloud, [25.10.21 17:43]
+[Forwarded from Azamatjon]
+6 d
+
+Cloud, [25.10.21 17:43]
+[Forwarded from Abror]
+def reverseComplement(s):
+  complement = {'A': 'T', 'C': 'G', 'T':'A', 'G':'C', 'N':'N' }
+  t = ''
+  for a in s:
+    t = t + complement[a]
+    
+  t = t[::-1]
+  return t
+
+Cloud, [25.10.21 17:43]
+[Forwarded from علي أكبر]
+1а
+
+Cloud, [25.10.21 17:43]
+[Forwarded from علي أكبر]
+1е
+
+Cloud, [25.10.21 17:43]
+[Forwarded from علي أكبر]
+1б
+
+Cloud, [25.10.21 17:43]
+[Forwarded from Javokhir]
+6 b.c .a
