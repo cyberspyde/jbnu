@@ -1,0 +1,4 @@
+https://github.com/deepset-ai/haystack
+https://www.deepset.ai/models
+https://haystack.deepset.ai/tutorials/01_basic_qa_pipeline
+https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/01_Basic_QA_Pipeline.ipynb

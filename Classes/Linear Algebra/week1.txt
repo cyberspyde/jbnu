@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-02T14:31:04+07:00
+
+====== week1 ======
+Created Wednesday 02 September 2020
+
+Vector Subtraction
+a - b = a + (-b)
+
+P1P2 is equal to terminal point - initial point
+
+{{.\2020-09-02 12_10_52-Greenshot.png}}
+{{.\2020-09-02 12_12_36-Greenshot.png}}
+{{.\2020-09-02 12_19_36-Greenshot.png}}
+{{.\2020-09-02 14_31_45-Greenshot.png}}
+{{.\2020-09-02 14_48_00-Greenshot.png}}
+{{.\2020-09-02 14_49_55-Greenshot.png}}
+{{.\2020-09-02 14_51_00-Greenshot.png}}
+{{.\2020-09-02 14_54_14-Greenshot.png}}{{.\2020-09-03 06_51_21-Greenshot.png}}
+{{.\2020-09-03 06_54_32-Greenshot.png}}
+{{.\2020-09-03 06_55_58-Greenshot.png}}
+{{.\2020-09-03 06_58_32-Greenshot.png}}
+{{.\2020-09-03 07_00_05-Greenshot.png}}
+{{.\2020-09-03 07_00_54-Greenshot.png}}
+{{.\2020-09-03 07_08_38-Greenshot.png}}
+{{.\2020-09-03 07_11_35-Greenshot.png}}
+{{.\2020-09-03 07_12_16-Greenshot.png}}
+{{.\2020-09-03 07_15_32-Greenshot.png}}
+{{.\2020-09-03 07_16_54-Greenshot.png}}{{.\2020-09-03 17_35_31-Greenshot.png}}
+{{.\2020-09-03 17_37_54-Greenshot.png}}
+{{.\2020-09-03 17_40_17-Greenshot.png}}
+{{.\2020-09-03 17_41_37-Greenshot.png}}
+{{.\2020-09-03 17_42_45-Greenshot.png}}
+{{.\2020-09-03 17_43_38-Greenshot.png}}
+{{.\2020-09-03 17_46_13-Greenshot.png}}
+{{.\2020-09-03 17_49_04-Greenshot.png}}
+{{.\2020-09-03 17_50_23-Greenshot.png}}
