@@ -7,7 +7,9 @@ sdk: streamlit
 sdk_version: 1.21.0
 app_file: app.py
 pinned: false
-license: openrail
+license: open rail
 ---
 
 Link for the live demo : https://huggingface.co/cyberspyde/chatbot-team4
+
+Project discontinued.
